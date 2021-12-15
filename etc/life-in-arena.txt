@@ -1,0 +1,73 @@
+==============================
+STRENGTH
+==============================
+
+Android |
+Beastmaster ++
+Brewmaster +
+Butcher +++
+Fallen Champion +++
+General ++
+Ghoul ++
+Golem --
+Highlander |
+Knight ++
+Murlock ++
+Naga Royal Guard --
+Scourge Warrior +
+Tauren Champion +
+Tauren Chieftan +
+Treant Protector +
+Troll Cutthroat -
+Walking Dead ++
+Warrior of Light ++
+
+
+==============================
+AGILITY
+==============================
+
+
+Berserker +
+Dark Knight ++
+Dark Ranger --
+Huntress +
+Illusionist ++
+Naga Siren +++
+Orc Chieftan --
+Pirate +++
+Serpent Queen +++
+Shaman ++
+Shadow Master +
+Spider Queen ++
+Thief King |
+Valkyrie +++
+Vampire ++
+
+
+==============================
+INTELLIGENCE
+==============================
+
+Alchemist --
+Ancient Priestess ++
+Archmage +
+Bloodwoven +
+Demonologist +++
+Earth Lord --
+Fire Lord ++
+Frost Lord |
+Holy Knight -
+Keeper of the Grove +++
+Lightning Lord |
+Necromancer +
+Skeleton Mage |
+Time Lord |
+Voidwalker ---
+Wanderer +++
+Warlock -
+Witch Doctor ++
+
+
+
+
