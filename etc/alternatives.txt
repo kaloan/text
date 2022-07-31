@@ -1,0 +1,26 @@
+ Twitter > Mastodon/ Nitter
+Youtube > Peertube/ yewtu.be
+Facebook > Diaspora
+Whatsapp/Discord/Skype etc > Jitsi/ Jami
+Instagram > Pixelfed
+Email > selfhosted with iredmail
+GoogleSearch > selfhosted with Searx / SwissCows
+GMap > OpenStreetMap(ordi) / Osmand(phone)
+Web > ipfs/ I2p / Tor
+Windows > Linux / freebsd / Tails (live usb)
+Smartphones > Librem5 800€ / Pinephone2 400€ / Fairphone4 700€
+SMS > Silence
+Playstore > F-Droid / gdroid
+Computers> Raspberry 12-40€ / Librem15 1600€ / PineBook 200€
+Network > Pi-hole / Opnsense
+Odysee channels > @RTP/@HackerSploit/@paflegeek
+Self-Hosting mutliple services is easy > https://yunohost.org
+
+Redirecting addon > https://libredirect.github.io/
+i've read the presearch privacy conditions and terms of use.
+https://engine.presearch.org/privacy
+https://engine.presearch.org/terms
+
+i wont use it.
+the rewarding system is never a good idea ( neither in odysee, in brave or anywhere else)
+there is only peertube as alternative to a giant , that check absolutly all of the boxes. it just miss us, the users :)
