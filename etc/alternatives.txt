@@ -1,4 +1,4 @@
- Twitter > Mastodon/ Nitter
+Twitter > Mastodon/ Nitter
 Youtube > Peertube/ yewtu.be
 Facebook > Diaspora
 Whatsapp/Discord/Skype etc > Jitsi/ Jami
