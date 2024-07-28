@@ -1,0 +1,11 @@
+-a -> 1f, 3n pl
+-um -> 2n
+-us -> 2m, 3m/f/n, 4m/n
+-er -> 2m, 3m
+-or -> 3m/n
+-en -> 3n
+-is -> 2m/f/n
+-ēs -> 5f, 3f/m, 3f pl
+-ās -> 3f
+-ō -> 3(-ōnis)f/m(-inis)m/f
+-ae -> 1f pl
