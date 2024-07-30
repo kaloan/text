@@ -1,0 +1,9 @@
+conjugation - defines endings when conjugating in various persons/tenses/moods
+3rd conjugation iō - verbs that have an -iō ending in 1st person singular and are conjugated more similarly to 4th conjugation verbs
+anomalous - have specific conjugations that can be completely different from the typical
+deponent - have passive form for conjugating but are actually active
+semi-deponent -like standard when the tense is nonperfect, and like deponent when it is 
+transitive - have supin
+intransitive - lack supin
+impersonal - have only 3 person singular version
+defective - ???
