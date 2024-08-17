@@ -1,14 +1,55 @@
 XI.11 - "Lingua et labra rubra sunt ut rosae." rubra - n. pl. is used when applied to different genera
 The ordinals are combined with pars to form fractions, e.g. "tertia pars", but 1/2 is dīmidia pars.
-"The conjunction vel was originally the imperative of velle; it implies a free
-choice between two expressions or possibilities."
-"Vel is distinct from aut, which is put between mutually exclusive alterna-
-tives. February can have either 28 or 29 days"
+"The conjunction vel was originally the imperative of velle; it implies a free choice between two expressions or possibilities."
+"Vel is distinct from aut, which is put between mutually exclusive alterna- tives. February can have either 28 or 29 days"
 "Uterque is singular and followed by a singular verb."
-"The verb inquit, “(he/she) says,” is inserted after one or more words of direct
-speech"
+"The verb inquit, “(he/she) says,” is inserted after one or more words of direct speech"
 domī, humī, rurī - these words other that cities and islands can be used in locative
 "puer laudātus = puer quī laudātus est; puer laudāns = puer quī laudat."
 "The neuter plural of adjectives and pronouns is often used as a noun (substantively) in a general sense"
 Vocative is different from nominative only for the 2nd declension singular nouns -us -> -e . Also -ius turns to -ī.
 "The vocative is used to address those present, while the accusative (called the accusative of exclamation) exclaims about more than to the students."
+Neutral nouns always have the same nominative and accusative form, same for adjectives modifying them 
+"The ablative of multum and paulum serves to strengthen or weaken a com- parative; this is called the ablative of degree of difference. The same forms are used with ante and post (as adverbs) to state the time difference"
+-m + d/t- -> -nd-/-nt-
+"If the base of an adjectives ends in nt, its adverb ends in nter, e.g., frequēns, frequenter."
+"When the superlative occurs without the idea of comparison, it can be translated “very”"
+n thousand is said using cardinal adjective for pl. neutr. + mīlia, e.g. tria mīlia
+n-th thousandth is said using numeral adverb + mīllēsimus, e.g. ter mīllēsimus
+"As you know (Cap. III), et is not placed before nōn; nor is it placed before nūllus: instead of et nūllus, we find neque ūllus"
+"In the perfect, esse is completely regular (in fact, all Latin verbs are regular in the perfect system)."
+"After sī, nisi (Cap. XV), num, and nē, the indefinite pronoun aliquis, aliquid (someone, something) is shortened to quis quid."
+"The difference between the simple future and the periphrasis of the future participle with a form of esse is one of tone. The simple future means the speaker intends to do something at some point in the future (which point can be made more by use of an adverb or time expression), while the future parti- ciple plus esse suggests that the subject is on the point of acting."
+"Diodorus uses the imperfect because he is writing from the perspective of the reader. This is called the epistolary imperfect.
+"The demonstrative pronoun iste, ‑a, ‑ud (declined like ille, ‑a, ‑ud) refers to something connected with the person addressed (2nd person):"
+quisquam/quidquam plural forms did not exist in Classical Latin, this pronoun seems to have few uses in some grammatical cases, ref. [wikipedia entry](https://en.wiktionary.org/wiki/quisquam)
+"Quam + superlative (with or without posse) denotes the highest possible degree:"
+"In order to indicate how much you value something, genitives like magnī, parvī, plūris, minōris are used with verbs that evaluate (e.g., aestimāre or facere in the same sense)."
+"When questions are reported, that is, they are indirect, the verb goes into the subjunctive."
+"Prefixes cause a short a or e in the verbal stem to be changed to i."
+ab + t -> abs + t (abs tē. abs-tinerēre)
+-n + p- -> -np-
+"The gerundive is a passive form; agent (the person by whom the action is to be performed) is expressed by the dative (not ab + ablative)"
+"When quisque and the superlative are used together, the phrase means “all the X.” Cicero spoke of optimus quisque, “all the best men.”
+"Revertere exists in both active and deponent forms (reverto, revertere, revertī and revertor, revertī, reversus sum); in the present the deponent forms are more common, in the perfect, the active forms.
+stem + īnus means of/pertaining to, eg. porc-īna [carō] - pigish/pig's [meat], i.e. pork
+"Instead of the regular plural locī of locus, you often find the neuter form loca, ‑ōrum (l.30), which is usual in the concrete sense (places, localities); locī is used for passages in books, topics, and points of argument."
+"The prefix ali‑ serves to make [some] interrogative words indefinite:" - similar to English some- and Bulgarian ня-
+"Vērum hōc ānulō sī quis servārī potest, nōn ego, sed amīca mea servanda est.", shouldn't "hōc ānulō" be in dative, i.e. "huic ānulō" as gerundivum "servanda" requires dative?
+"Nouns that occur only in the plural, i.e., pluralia tantum, use distributive numbers,"
+For complex verbs: proposition + <qu|>ae- -> proposition-<qu>ī-
+-āx = inclined to, e.g. audāx (audēre) - inclined to dare, i.e. daring
+"A double i (ii, iī) is apt to be contracted into one long ī, as you have seen in the form dī for diī. When h disappears in mihi and nihil, we get the contracted forms mī and nīl (e.g., ll.118, 174). "
+" You also find sapīstī for sapiistī (l.190)—the latter form being a contraction of sapīvistī; the final v of the perfect stem tends to disappear, so that:
+‑īvisse becomes ‑iisse/‑īsse
+‑āvisse becomes ‑āsse
+‑āvistī becomes ‑āstī "
+
+Diminutive form is usually formed by: <stem> + <cu|u>l + -us|a|um(depending of original gender)
+Sometimes by: <stem> + <o|el>l + -us|a|um 
+https://pressbooks.bccampus.ca/greeklatinroots/chapter/%c2%a752-what-is-a-diminutive/
+
+per + verb when translating the meaning in Bulgarian essentially has the effect of changing the verb aspect from the imperfect to the perfect, e.g. venīre, pervenīre -> стигам, стигна; suadēre persuadēre -> убеждавам, убедя
+Most of the other prefixes to create complex verbs seem to modify the perfect aspect
+
+Does the name for the Delphic oracle 'Pȳthia' have PIE origins? Bulgarian питам, to ask; допитвам, to seek advice, opinion 

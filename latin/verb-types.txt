@@ -6,4 +6,5 @@ semi-deponent -like standard when the tense is nonperfect, and like deponent whe
 transitive - have supin
 intransitive - lack supin
 impersonal - have only 3 person singular version
-defective - ???
+defective - lack part most of the possible conjucations
+reflexive - require sē/sibi
