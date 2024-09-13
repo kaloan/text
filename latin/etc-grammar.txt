@@ -9,7 +9,7 @@ domī, humī, rurī - these words other that cities and islands can be used in l
 "The neuter plural of adjectives and pronouns is often used as a noun (substantively) in a general sense"
 Vocative is different from nominative only for the 2nd declension singular nouns -us -> -e . Also -ius turns to -ī.
 "The vocative is used to address those present, while the accusative (called the accusative of exclamation) exclaims about more than to the students."
-Neutral nouns always have the same nominative and accusative form, same for adjectives modifying them 
+Neutral nouns always have the same nominative and accusative form, same for adjectives modifying them
 "The ablative of multum and paulum serves to strengthen or weaken a com- parative; this is called the ablative of degree of difference. The same forms are used with ante and post (as adverbs) to state the time difference"
 -m + d/t- -> -nd-/-nt-
 "If the base of an adjectives ends in nt, its adverb ends in nter, e.g., frequēns, frequenter."
@@ -46,10 +46,14 @@ For complex verbs: proposition + <qu|>ae- -> proposition-<qu>ī-
 ‑āvistī becomes ‑āstī "
 
 Diminutive form is usually formed by: <stem> + <cu|u>l + -us|a|um(depending of original gender)
-Sometimes by: <stem> + <o|el>l + -us|a|um 
+Sometimes by: <stem> + <o|el>l + -us|a|um
 https://pressbooks.bccampus.ca/greeklatinroots/chapter/%c2%a752-what-is-a-diminutive/
 
 per + verb when translating the meaning in Bulgarian essentially has the effect of changing the verb aspect from the imperfect to the perfect, e.g. venīre, pervenīre -> стигам, стигна; suadēre persuadēre -> убеждавам, убедя
 Most of the other prefixes to create complex verbs seem to modify the perfect aspect
 
-Does the name for the Delphic oracle 'Pȳthia' have PIE origins? Bulgarian питам, to ask; допитвам, to seek advice, opinion 
+Does the name for the Delphic oracle 'Pȳthia' have PIE origins? Bulgarian питам, to ask; допитвам, to seek advice, opinion
+
+dum + coni = iisque ad tempus quo
+
+Verbs ending in -escere denote becoming/obtaining characteristcs of the root. In English the equivalents could end in -en, eg. rubescere -> to redden, silvescere -> to become covered with wood/to become wild, aegrescere -> to sicken
