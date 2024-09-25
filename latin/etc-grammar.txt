@@ -32,7 +32,9 @@ ab + t -> abs + t (abs tē. abs-tinerēre)
 "The gerundive is a passive form; agent (the person by whom the action is to be performed) is expressed by the dative (not ab + ablative)"
 "When quisque and the superlative are used together, the phrase means “all the X.” Cicero spoke of optimus quisque, “all the best men.”
 "Revertere exists in both active and deponent forms (reverto, revertere, revertī and revertor, revertī, reversus sum); in the present the deponent forms are more common, in the perfect, the active forms.
-stem + īnus means of/pertaining to, eg. porc-īna [carō] - pigish/pig's [meat], i.e. pork
+
+stem + īnus/ānus/ēnus/iānus/ūnus means of/pertaining to, eg. porc-īna [carō] - pigish/pig's [meat], i.e. pork, or свинско/свинско [месо], i.e. translates to -ов/-ски/-шки (Български)
+
 "Instead of the regular plural locī of locus, you often find the neuter form loca, ‑ōrum (l.30), which is usual in the concrete sense (places, localities); locī is used for passages in books, topics, and points of argument."
 "The prefix ali‑ serves to make [some] interrogative words indefinite:" - similar to English some- and Bulgarian ня-
 "Vērum hōc ānulō sī quis servārī potest, nōn ego, sed amīca mea servanda est.", shouldn't "hōc ānulō" be in dative, i.e. "huic ānulō" as gerundivum "servanda" requires dative?
@@ -57,3 +59,5 @@ Does the name for the Delphic oracle 'Pȳthia' have PIE origins? Bulgarian пи�
 dum + coni = iisque ad tempus quo
 
 Verbs ending in -escere denote becoming/obtaining characteristcs of the root. In English the equivalents could end in -en, eg. rubescere -> to redden, silvescere -> to become covered with wood/to become wild, aegrescere -> to sicken
+
+-plex translates to -fold (English), -кратен (Български)
