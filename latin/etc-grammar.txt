@@ -7,7 +7,7 @@ The ordinals are combined with pars to form fractions, e.g. "tertia pars", but 1
 domī, humī, rurī - these words other that cities and islands can be used in locative
 "puer laudātus = puer quī laudātus est; puer laudāns = puer quī laudat."
 "The neuter plural of adjectives and pronouns is often used as a noun (substantively) in a general sense"
-Vocative is different from nominative only for the 2nd declension singular nouns -us -> -e . Also -ius turns to -ī.
+Vocative is different from nominative only for the 2nd declension singular nouns -us -> -e . Also -ius turns to -ī but only for nouns, adjectives ending -ius use the vocative -ie (just as in Old Latin all -ius nouns did).
 "The vocative is used to address those present, while the accusative (called the accusative of exclamation) exclaims about more than to the students."
 Neutral nouns always have the same nominative and accusative form, same for adjectives modifying them
 "The ablative of multum and paulum serves to strengthen or weaken a com- parative; this is called the ablative of degree of difference. The same forms are used with ante and post (as adverbs) to state the time difference"
@@ -61,3 +61,32 @@ dum + coni = iisque ad tempus quo
 Verbs ending in -escere denote becoming/obtaining characteristcs of the root. In English the equivalents could end in -en, eg. rubescere -> to redden, silvescere -> to become covered with wood/to become wild, aegrescere -> to sicken
 
 -plex translates to -fold (English), -кратен (Български)
+
+
+"According to Döderlein, celer and citus mean "swift, fast, quick" in terms of quick motion (in general) with tardus as their antonym. More specifically, citus refers to a lively motion, whereas celer refers to an eager or impetuous motion.
+
+On the other hand, vēlōx and pernīx as "quick" denote a level of athletic nimbleness in terms of bodily activity, with lentus as their antonym. More specifically, pernīx involves a level of dexterity and quickness in an eclectic range of actions (such as climbing, hurdling, jumping, vaulting, etc.); whereas vēlōx is especially used for running, swimming and flying (moving in a direction)
+
+Thirdly, properus and festīnus as "quick" refer specifically to one's speed in terms of the shortest time to reach a destination, with sēgnis as their antonym. More specifically, festīnus intimates a certain level of impatience, whereas properus simply indicates a haste from energy simply." - [Wiktionary](https://en.wiktionary.org/wiki/celer#Latin)
+
+"Cicero notes that bīnī was phonetically similar to the obscene Ancient Greek word βῑνεῖ (bīneî, “fucks”, 3rd person singular present active indicative).[1]
+
+This is part of the Latin series of distributive numerals. These numerals are inflected as first/second-declension adjectives; in Classical Latin, they typically accompany plural nouns (with which they agree in case and gender) and have the following functions:
+
+    to express the sense “[numeral] [noun]s each/apiece”, as in hominis digiti ternos articulos habent, “a man’s fingers have three joints each” (Pliny the Elder, Natural History 11.244.3).
+
+    to express multiplication after a numeral adverb,[2] as in Gallinaciis enim pullis bis deni dies opus sunt, pavoninis ter noveni "hens' [eggs] need twice ten days, peahens' thrice nine" (Marcus Terentius Varro, Res Rusticae 3.9.10)
+
+    to express the sense of cardinal numerals when used with pluralia tantum (plural-only nouns) such as castra "camp":[2] for example, "twelve camps" is expressed by duodēna castra (Pliny the Elder, Natural History 7.105.5). Distributive forms are regularly used in this context for the number 2 and for all numbers greater than 4. For 1, plural-only nouns are used with plural inflected forms of the cardinal ūnus (“one”), as in ūnae scālae "one flight of stairs" (rather than with forms of the distributive numeral singulus). For 3 and 4, plural-only nouns are used with the plural inflected forms of trīnus[3] and quadrīnus, as in trīna castra "three camps" (rather than with forms of ternus and quaternus, which tend to be used in distributive function[4]).
+
+These adjectives do not normally occur in the singular.[5] Because of this, many grammars and dictionaries treat them as plural-only words and refer to them using the nominative masculine plural form in -ī, rather than the nominative masculine singular form in -us (which is often unattested in Classical Latin). However, some of these adjectives are attested in the singular in Classical Latin poetry[2] (e.g. Sed neque Centauri fuerunt, nec tempore in ullo / esse queunt duplici natura et corpore bino..., Titus Lucretius Carus, De Rerum Natura 5.879, and Sic tu bis fueris consul, bis consul et ille, / inque domo binus conspicietur honor, Publius Ovidius Naso, Epistulae ex Ponto 4.9.64; "corpore bino" here seems to have the sense of "twofold body", and "binus ... honor" the sense of "double/dual/twofold honor"). Singular forms are also attested in postclassical Latin, where these adjectives sometimes have non-distributive meanings (taking an ordinal, cardinal, or collective sense instead). These alternative senses are sometimes continued by Romance descendants (e.g. Spanish noveno (“ninth”) from Latin novēnus).
+
+The genitive plural of singulus is usually singulōrum/singulārum, but distributive numerals greater than one commonly use short genitive plural forms ending in -um rather than the longer forms ending in -ōrum and -ārum.[5][3]" [Wiktionary](https://en.wiktionary.org/wiki/binus#Latin)
+
+"In Classical Latin, month names were regularly used as adjectives, generally modifying a case-form of mēnsis m sg (“month”) or of one of the nouns used in the Roman calendar to refer to specific days of the month from which other days were counted: Calendae f pl (“calends”), Nōnae f pl (“nones”), Īdūs f pl (“ides”). However, the masculine noun mēnsis could be omitted by ellipsis, so the masculine singular forms of month names eventually came to be used as proper nouns.[1]
+
+The accusative plural adjective forms Aprīlīs, Septembrīs, Octōbrīs, Novembrīs, Decembrīs[2] are ambiguous in writing, being spelled identically to the genitive singular forms of the nouns; nevertheless, the use of ablative singular forms in -ī and comparison with the usage of other month names as adjectives supports the interpretation of -is as an accusative plural adjective ending in Classical Latin phrases such as "kalendas Septembris".[3] " [Wiktionary](https://en.wiktionary.org/wiki/November#Latin)
+
+"First and second declension adjectives that end in -eus or -ius are unusual in that they do not form the comparative and superlative by taking endings at all. Instead, magis ('more') and maximē ('most'), the comparative and superlative degrees of magnoperē ('much, greatly'), respectively, are used. " [Wikipedia](https://en.wikipedia.org/wiki/Latin_declension)
+
+"The Causal particles quod and quia take the indicative, when the reason is given on the authority of the writer or speaker; the subjunctive, when the reason is given on the authority of another." [Dickinson College Commentaries](https://dcc.dickinson.edu/grammar/latin/causal-clauses)
