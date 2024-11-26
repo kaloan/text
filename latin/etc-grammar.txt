@@ -90,3 +90,40 @@ The accusative plural adjective forms Aprīlīs, Septembrīs, Octōbrīs, Novemb
 "First and second declension adjectives that end in -eus or -ius are unusual in that they do not form the comparative and superlative by taking endings at all. Instead, magis ('more') and maximē ('most'), the comparative and superlative degrees of magnoperē ('much, greatly'), respectively, are used. " [Wikipedia](https://en.wikipedia.org/wiki/Latin_declension)
 
 "The Causal particles quod and quia take the indicative, when the reason is given on the authority of the writer or speaker; the subjunctive, when the reason is given on the authority of another." [Dickinson College Commentaries](https://dcc.dickinson.edu/grammar/latin/causal-clauses)
+
+
+
+
+
+
+
+"Adjectives in -eus, -ius, and -uus (except -quus) are compared using magis and māximē:"
+
+"The Latin ending -us (2nd declension) corresponds to Greek -os (ος). Usu-
+ally Greek names in -os have -us in Latin and follow the 2nd declension. The
+gender of the following Greek places is feminine, of the Greek men’s names,
+masculine [...] Sometimes -os is retained in Latin, as we have seen in the names of some Greek
+islands. When the -os is retained, the accusative also has the Greek ending -on.
+Note that the gender of these nouns is feminine [...] Most Latinized Greek names of islands, towns, and countries ending in -us and -os are feminine [...] Greek nouns in Latin may end in -a [...] Or in -ē [...] Greek nouns in -ē have the following endings:
+genitive in -ēs: Samēs, Andromachēs
+accusative in -ēn: Samēn, Andromachēn
+ablative in -ē: Samē, Andromachē"
+
+"In relative clauses, the verb is normally in
+the indicative, but the subjunctive is used in relative clauses in several circum-
+stances. For example, relative clause can further explain:
+purpose (relative clauses of purpose)
+reason (relative causal clauses)
+result or tendency (relative clauses of result/tendency)"
+"At the beginning of a sentence, quī acts as a
+connective and a demonstrative"
+
+"The present subjunctive is used to express wishes for the future"
+"The imperfect subjunctive is used to express an unfulfilled wish (one that didn’t
+come true) in the present"
+"The pluperfect subjunctive indicates a wish that didn’t come true in the past"
+"The imperfect subjunctive of esse (i.e.: essem, essēe[sic!], esset, etc.) has an alternate form, shown
+here in the compound afforet ( = ad + foret: forem, forme, foret, etc.). Fore (without endings) =
+futūrum esse"
+"Rhetorical questions in indirect discourse use the accusative and infinitive construction; genuine questions in indirect discourse go into the subjunctive according to sequence of tense."
+"similis takes either the dative, as here, or the genitive"
