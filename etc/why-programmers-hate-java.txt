@@ -1,0 +1,10 @@
+Q: Why do people hate Java? What makes it worse than other languages? (https://www.quora.com/Why-do-people-hate-Java-What-makes-it-worse-than-other-languages)
+
+A: Viktor Akulov
+It is unnecessarily verbose, forces a particularly idiotic take on an OOP into all areas if the code, it doesn’t excel in any particular area(like performance or code cleanliness) and it is the default choice for the blandest and the most boring business software.
+
+Mediocrity permeates everything about Java. Its dull and boring. It personifies everything that a decently competent engineer despises.
+
+And the worst is the senior java engineers. Its the people whose passion for engineering has been beaten out of them. Their eyes are not shining with excitement anymore. Their graybeards are fake wigs(the resource drain dealing with enterprise BS prevent a good beard from growing). Even though they know about their sad existence, they will fight ferociously to defend their position. “Its just a tool for the job. Its not the best tool, but its the right tool”. Just read any other answer to this question. Words like “mature” and “professional” will be dominant.
+
+Java is where good engineers die, thats why its hated.
