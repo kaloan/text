@@ -1,4 +1,6 @@
 mare
+rūs
+humus
 domus
 arcus
 locus
@@ -10,9 +12,12 @@ Iēsūs
 poēsis (!!!)
 verū
 nāvis
+puppis
+turris
 famula
 tonitrus
 tribus
 febris
 dea
 fīlia
+Danaī

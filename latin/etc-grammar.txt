@@ -127,3 +127,6 @@ here in the compound afforet ( = ad + foret: forem, forme, foret, etc.). Fore (w
 futūrum esse"
 "Rhetorical questions in indirect discourse use the accusative and infinitive construction; genuine questions in indirect discourse go into the subjunctive according to sequence of tense."
 "similis takes either the dative, as here, or the genitive"
+
+
+3rd declension feminine nouns ending in -is, have special forms for accusative -im and ablative -ī, ex. navis, puppis, turris
