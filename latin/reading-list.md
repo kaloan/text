@@ -11,10 +11,11 @@
 8. TLR The Mysterious Traveler, A Medieval Play about Saint Nicolas (9781711355900)
 9. TLR Reckless Love, The Story of Pyramus and Thisbe (9781986825726)
 10. LLPSI Amphitryo Comoedia (9781585101948) - a comedy by Plautus
-11. Epitome Historiae Sacrae (9788895611198) by Charles François Lhomond (Caroli Francisci Lhomond), modernized by Luigi Miraglia
+11. Epitome Historiae Sacrae (9788895611198) by Charles François Lhomond (Carolus Franciscus Lhomond), modernized by Luigi Miraglia
 12. LLPSI Roma Aeterna (9781585102334)
     * LLPSI Pars II: Exercitia Latina II (9781585102334)
     * LINGVA LATINA, A Companion to Roma Aeterna (9781585108428) by Jeanne Marie Neumann can be of help
+13. Fabulae Gallicae – A Carolo Peralto Scriptae by Charles Perrault, Latin translation by Laurent d'Aumale (9789198509502)
 
 LLPSI - Lingua Latina per se Illustrata series by Hans Ørberg
 TLR - A Tiered Latin Reader by Andrew Olimpi
