@@ -1,0 +1,16 @@
+For macronization these simple solutions are available depending on the Operating System:
+1. On Linux, the Compose key concept can be adopted. 
+   A Compose key is one that when pressed records the next few key strokes and attempts to combine them in a single glyph.
+   This happens according to a table that maps key combinations to resulting glyphs.
+   This is a nice thing to have switched on, in case you ever need to write text in another language that includes modified latin letters.
+   A tutorial on setting it up can be found here: https://fsymbols.com/keyboard/linux/compose/ 
+   Note that according to the tutorial typing Ancient Greek diacritics denoting aspirated vowels seems to also be possible using Compose.
+2. On macOS, change the input to ABC - Extended and then the combination ⌥ + a + <vowel>, can be used for the macronized <vowel>.
+3. On Windows, one can change language input to Maori, which includes macronized vowels. Alternatively WinCompose or "Quick Accent Utility" may be used.
+   a. WinCompose is a program that allows selection of a compose key as in Linux. Further instructions: https://github.com/SamHocevar/wincompose
+   b. Quick Accent is one of many "PowerToys" available for newer versions of Windows 10 and Windows 11. 
+      First, install the "PowerToys" package (https://learn.microsoft.com/en-us/windows/powertoys/install).
+      Holding down a vowel and pressing a selected "Activation" key will result in macronized vowel after setup. 
+      Further reading https://learn.microsoft.com/en-us/windows/powertoys/quick-accent
+
+Another possible solution is to make yourself a custom keyboard layout, but this will be much more of a hassle.
