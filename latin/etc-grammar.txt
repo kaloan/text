@@ -132,3 +132,23 @@ futūrum esse"
 3rd declension feminine nouns ending in -is, have special forms for accusative -im and ablative -ī, ex. navis, puppis, turris
 
 "many first-conjugation verbs are denominative (derived from nouns or adjectives)"
+
+"Words that signal result clauses:
+tantus, -a, -um
+tālis, tāle
+eius modī
+tot
+sīc
+ita
+adeō
+tam"
+
+"Latin often sees [...] the stress is not on the achievement of the result, but that the result was a natural potential or outgrowth of the activity of the verb or adverb"
+
+"causā, grātiā + a preceding[!] genitive of gerund/gerundive"
+
+"Instead of the ending -ērunt in the past perfect (3rd pers. plur.), you sometimes
+find the older form -ēre, both in poetry and in prose. [..]
+Other archaic forms are -um for -ōrum in deum"
+
+"The ablatives multō and paulō can be used before a comparative to indicate the degree of difference"
