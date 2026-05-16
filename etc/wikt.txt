@@ -1,0 +1,27 @@
+====Translations====
+{{trans-top|}}
+* Bulgarian: {{t-needed|bg}}
+{{trans-bottom}}
+
+====Translations====
+{{trans-top|}}
+* Bulgarian: {{t+|bg|дума|f}}
+{{trans-bottom}}
+
+====Translations====
+{{trans-top|}}
+* Bulgarian: {{t+|bg|върша|impf}}
+{{trans-bottom}}
+
+
+а́ е́ и́ о́ у́ я́ ю́ ъ́
+А́ Е́ И́ О́ У́ Я́ Ю́ Ъ́
+ 
+ {{lb|en|onomatopoeia}}
+ 
+ 
+* Bulgarian: {{t+check|bg|дума|m}}
+
+* Bulgarian: {{no equivalent translation|bg}}
+
+{{t-needed}}
